@@ -1,0 +1,13 @@
+name = "ZenZombies"
+author = "Zenmor"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "baf85389d6211a8824af1b94f0dcf66520b6cfba387b4dd7112710ad06efab20"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.121"
